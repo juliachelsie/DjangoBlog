@@ -1,0 +1,1 @@
+web: gunicorn django-blog-julia.wsgi
