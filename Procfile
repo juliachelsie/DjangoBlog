@@ -1,1 +1,1 @@
-web: gunicorn dvd1tzvim.wsgi
+web: gunicorn codestar.wsgi
