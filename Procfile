@@ -1,1 +1,1 @@
-web: gunicorn django-blog-julia.wsgi
+web: gunicorn dvd1tzvim.wsgi
